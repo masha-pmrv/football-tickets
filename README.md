@@ -6,5 +6,5 @@
 - покупка вибраних квитків
 
 Для реалізації даного функціоналу буде використовуватися:
-Front-end: html, JavaScript, CSS
-Back-end: Node.js
+-Front-end: html, JavaScript, CSS
+-Back-end: Node.js
